@@ -1,7 +1,7 @@
 <template>
   <!----flex center trys to make item in center of container------>
   <q-page>
-    <q-parallax :height="300" :speed=".75">
+    <q-parallax :height="300" :speed=".75">    
       <template v-slot:media>
         <img src="~assets/IMG_4452.jpg">
       </template>
